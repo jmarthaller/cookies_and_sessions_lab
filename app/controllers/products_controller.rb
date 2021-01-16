@@ -1,6 +1,5 @@
 class ProductsController < ActionController::Base
     def index
-        render :index
     end
   
     def add
